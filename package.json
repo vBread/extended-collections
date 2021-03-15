@@ -28,15 +28,13 @@
 		"access": "public"
 	},
 	"devDependencies": {
+		"@jest/types": "^26.6.2",
 		"@types/jest": "^26.0.20",
-		"@types/node": "^14.14.31",
+		"@types/node": "^14.14.35",
 		"jest": "^26.6.3",
 		"jest-extended": "^0.11.5",
-		"ts-jest": "^26.5.2",
+		"ts-jest": "^26.5.3",
 		"ts-node": "^9.1.1",
-		"typescript": "^4.2.2"
-	},
-	"dependencies": {
-		"@jest/types": "^26.6.2"
+		"typescript": "^4.2.3"
 	}
 }
